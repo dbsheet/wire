@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/google/wire"
+	"github.com/dbsheet/wire"
 )
 
 func main() {

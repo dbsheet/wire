@@ -25,7 +25,7 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/google/wire"
+	"github.com/dbsheet/wire"
 )
 
 type context struct{}
